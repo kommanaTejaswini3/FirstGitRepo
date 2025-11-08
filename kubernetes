@@ -1,5 +1,10 @@
 This is kuber file
 adding some data to see conflicts
 adding conflict
+<<<<<<< Updated upstream
 there is some changes to be modified 
 teju
+=======
+>>>>>>> Stashed changes
+nothing to commit
+>>>>>>> Stashed changes
