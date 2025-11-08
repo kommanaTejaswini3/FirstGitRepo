@@ -1,2 +1,6 @@
 This is kuber file
+<<<<<<< Updated upstream
 adding some data to see conflicts
+=======
+adding conflict
+>>>>>>> Stashed changes
